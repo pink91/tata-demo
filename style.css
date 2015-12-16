@@ -1,0 +1,116 @@
+@charset "gb2312";
+body{ background:#c3c3b4; text-align:left}
+color{#5e3b27}
+.headbg,.head{ background:url(img/headbg.jpg) no-repeat center top}
+.head{ width:968px; margin:0 auto; height:646px}
+.top{ height:424px; text-indent:-10000px}
+.fl{ float:left}
+.bd{ border:1px solid #bf9f67; border-top:none}
+.mb10{ margin-bottom:10px}
+.mr73{ margin-right:73px}
+.mr33{ margin-right:33px}
+.mr48{ margin-right:48px}
+.mb22{ margin-bottom:22px}
+.mb15{ margin-bottom:15px}
+.pd5{ padding:5px}
+.mb30{ margin-bottom:30px}
+.layA{ width:264px}
+.govn{ height:100px}
+.govn p{ padding-top:24px; padding-left:56px}
+.govn a{ display:block; width:155px; height:45px}
+.navr{ height:111px; overflow:hidden}
+.li01,.li02,.li03,.li04{ margin-left:1px; margin-bottom:1px; width:130px; height:55px; float:left}
+.li01 a,.li02 a,.li03 a,.li04 a{ background:url(img/bgb.png) no-repeat left 0; display:block; width:130px; height:55px}
+.li02 a{ background-position:-131px 0}
+.li03 a{ background-position:-262px 0}
+.li04 a{ background-position:-393px 0}
+.li01 a:hover{ background-position:-524px 0}
+.li02 a:hover{ background-position:-655px 0}
+.li03 a:hover{ background-position:-786px 0}
+.li04 a:hover{ background-position:-824px -99px}
+.layB{ width:313px; height:201px; padding-top:5px}
+.layC{ width:253px}
+.layC p{ text-indent:2em; color:#8d8d8d; padding-top:42px; line-height:24px}
+.wrap{ width:968px; margin:0 auto; height:1349px}
+.modA .modTh,.modA .pr3,.modA .pr4,.act01 span,.act02 span,.act03 span,.ulTxt span,.gif,.ft20 span,.pic span,.btn span a,.modA .modTh1,.modA .pr8,.modA .pr9,.txt01 span,.txt02 span,.txt03 span,.pst,.ft21 span,.modA .modTh2{background:url(img/bgb.png) no-repeat left 0}
+.p1{ height:502px}
+.modA .modTh{ height:42px; background-position:0 -56px; position:relative}
+.modA .modTb{ position:relative}
+.modA .pr1,.modA .pr2,.modA .pr3,.modA .pr4,.modA .pr5,.modA .pr6,.modA .pr7,.modA .pr8,.modA .pr9,.modA .pr10,.modA .pr11,.modA .pr12,.modA .pr13,.modA .pr15{ position:absolute; width:968px; height:460px}
+.modA .pr1,.modA .pr6,.modA .pr11{ background:#ccb186; z-index:1}
+.modA .pr2,.modA .pr7{ background:url(img/bga.png) repeat-x left top; z-index:2}
+.modA .pr3,.modA .pr8{ background-position:-247px -142px; width:200px; height:231px; z-index:3; left:0; top:0}
+.modA .pr4,.modA .pr9{ background-position:0 -142px; width:246px; height:253px; z-index:4; right:0; top:207px}
+.modA .pr5,.modA .pr10,.modA .pr15{ z-index:5}
+.lay445{ width:445px}
+.pd30{ padding:30px 25px 20px 50px; height:409px}
+
+
+.act01 span,.act02 span,.act03 span,.txt01 span,.txt02 span,.txt03 span{ display:block; width:177px; height:46px; background-position:-814px -155px}
+.act02 span{ background-position:-814px -204px}
+.act03 span{ background-position:-814px -251px}
+.acttb{ color:#5e3b27; text-indent:2em; font:15px/24px "宋体"; padding-top:10px; text-align:justify}
+.ulTxt{ padding-top:10px; padding-left:9px}
+.ulTxt li{ color:#5e3b27; font:15px  "宋体"; vertical-align:middle; padding-top:5px}
+.ulTxt span{ background-position:-979px -11px; color:#e2d9b5; display:inline-block; width:16px; height:16px; text-align:center; line-height:16px}
+.gif{ width:67px; height:76px; background-position:-665px -154px}
+
+.p2{ height:828px}
+.lay395{ width:395x}
+.rwd{ padding-left:30px}
+.rwdtb{ color:#5f3c27;font:15px/24px "宋体"; padding-left:20px}
+.rwdtb p,.modtb p{ padding-top:10px}
+.rwdtb p{ width:207px}
+.rwdtb .ft20 span{ display:block; width:111px; height:26px; background-position:-467px -225px}
+.pic span{ display:block; width:355px; height:194px; background-position:-448px -142px; padding-top:10px; padding-left:10px}
+.pic span a{display:block; width:345px; height:180px; margin:0 auto}
+.btn span,.btn span a{ display:block; width:200px; height:62px}
+.btn span{margin:0 auto}
+.btn span a{ background-position:-463px -155px}
+.modA .modTh1,.modA .modTh2{ width:411px; height:42px; background-position:0 -99px; position:absolute}
+.pd25{ padding:30px 25px 20px 50px; height:735px; position:relative}
+.modA .pr6,.modA .pr7,.modA .pr8,.modA .pr10{ height:785px}
+.modA .pr9{ top:620px; height:161px}
+.blog{ width:445px; height:712px}
+.rgPart{ width:394px}
+.rwd02{ padding-left:5px}
+.txt01 span{background-position:-448px -347px}
+.txt02 span{background-position:-626px -347px}
+.txt03 span{background-position:-815px -300px}
+.modtb{ color:#5f3c27;font:15px/24px "宋体"; padding-left:20px}
+.pst{ width:56px; height:64px; background-position:-589px -225px}
+.ft21 span{ display:block; width:98px; height:21px; background-position:-467px -268px}
+.picTb span{ display:block; width:355px; height:190px; background:url(img/bgd.png) no-repeat; padding-top:10px; padding-left:16px}
+.picTb span a{display:block; width:345px; height:175px; margin:0 auto; padding-left:7px}
+
+.footbg,.fbg{ background:url(img/footbg.jpg) no-repeat center top}
+.fbg{ width:968px; overflow:hidden; margin:0 auto;position:relative; height:473px}
+.picShow{ width:968px; margin:0 auto; height:254px}
+.modA .modTh2{ background-position:-412px -99px}
+.modA .pr11,.modA .pr12,.modA .pr14,.modA .pr15{ height:202px}
+.modA .pr5,.modA .pr10,.modA .pr15{ width:966px}
+.pr5brd,.pr10brd,.pr15brd{ border:1px solid #dfcdb2; border-top:none; overflow:hidden}
+.pr5brd{ height:458px}
+.pr10brd{ height:784px}
+.pr15brd{ height:201px}
+.modA .pr12{ background:url(img/bgf.png) repeat-x left top; z-index:2}
+.modA .pr13,.modA .pr14{background:url(img/bgd.png) no-repeat -208px -202px;position:absolute; width:171px; height:203px; z-index:3}
+.modA .pr14{ background-position:0 -202px; width:203px; height:188px; z-index:4; top:13px; right:0}
+.picUl { width:880px; margin:0 auto; overflow:hidden; padding-top:30px; padding-left:23px}
+.picUl li{ float:left; width:200px; height:150px; margin-right:20px}
+.picUl li span{ display:block; height:119px}
+.picUl li i{ display:block; border:1px solid #3c2314}
+.picUl li b{ height:27px; display:block; border:1px solid #5c361e; background:#432716; text-align:center; line-height:27px}
+.picUl li a{ color:#e2d9b5; text-align:center; line-height:27px; font-weight:normal}
+
+
+body #footer{ width:968px; background:none; color:#272724}
+body #footer .ftop{ background:none}
+body #footer a{ color:#272724}
+
+
+
+
+
+
+
